@@ -126,10 +126,16 @@ section button:hover {
     margin: 0.5rem 0; /* Margem acima e abaixo */
 }
 
+a {
+    color:aqua;
+    font-weight: bold;
+}
+
 /* Estiliza o rodapé da página */
 footer {
-/*    background-color: #F5F7F8; /* Cor de fundo do rodapé */
-    color: #dddddd; /* Cor do texto */
+    background-color: #363131; /* Cor de fundo do rodapé */
+    color: #FFFFFF;
+    opacity: 0.75;
     text-align: center; /* Alinha o texto ao centro */
     padding: 0; /* Espaçamento interno */
     width: 100%; /* Largura total da página */
