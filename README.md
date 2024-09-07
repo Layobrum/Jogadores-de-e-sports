@@ -1,5 +1,3 @@
-Este projeto foi desenvonvido na Imersão Dev com Gemini (A inteligência artificial do Google) by Alura 🚀
-
 ##  🎮**Procurando por seu jogador de e-Sports favorito?**
 **Este projeto foi desenvonvido a partir da Imersão Dev com Gemini (A inteligência artificial do Google) by Alura, com o objetivo de te ajudar a encontrar o atleta de esportes eletrônicos, com um pequeno resumo e sua página no liquipedia, a maior wiki de esports.** 
 
@@ -27,6 +25,9 @@ Se você quiser adicionar mais jogadores, jogos ou melhorar a busca, fique à vo
 
 **#eSports #Brasil #Programação #JavaScript**
 
-**Layo "MrBrum"** - Estudante de TI e fã de e-sports 
+Este projeto foi desenvonvido na **Imersão Dev com Gemini (A inteligência artificial do Google) by Alura 🚀**
 
+Você pode visualizar e testar o site diretamente [aqui](https://jogadores-de-e-sports.vercel.app)
+
+**Layo "MrBrum"** - Estudante de TI e fã de e-sports, 
 **Sinta-se a vontade para verificar meu** [Linkedin](https://www.linkedin.com/in/layo-brum/)
