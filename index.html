@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>Jogadores de e-Sports</title>
+</head>
+
+<body class="background">
+    <header>
+        <h1>
+            <span>Jogadores profissionais de e-Sports no Brasil</span>
+        </h1>
+    </header>
+    <main>
+        <section name="botao">
+            <input type="text" placeholder="Procure um jogo ou jogador" id="campo-pesquisa">
+            <button onclick="pesquisar()">
+                Pesquisar
+            </button>
+        </section>
+        <section class="resultados-pesquisa" id="resultados-pesquisa" name="infos">
+        </section>
+    </main>
+    <footer>
+        <p>2024 - Jogadores profissionais de e-Sports no Brail.</p>
+        <p>Para mais informações entre em contato pelo servidor do Discord</p>
+    </footer>
+    <script src="dados.js"></script>
+    <script src="app.js"></script>
+</body>
+
+</html>
