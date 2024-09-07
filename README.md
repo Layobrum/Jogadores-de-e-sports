@@ -29,5 +29,6 @@ Este projeto foi desenvonvido na **Imersão Dev com Gemini (A inteligência arti
 
 Você pode visualizar e testar o site diretamente [aqui](https://jogadores-de-e-sports.vercel.app)
 
-**Layo "MrBrum"** - Estudante de TI e fã de e-sports, 
-**Sinta-se a vontade para verificar meu** [Linkedin](https://www.linkedin.com/in/layo-brum/)
+**Layo "MrBrum"** - Estudante de TI e fã de e-sports
+
+**Sinta-se a vontade para entrar em contato comigo pelo **[Linkedin](https://www.linkedin.com/in/layo-brum/)
