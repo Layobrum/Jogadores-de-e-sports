@@ -28,4 +28,5 @@ Se você quiser adicionar mais jogadores, jogos ou melhorar a busca, fique à vo
 **#eSports #Brasil #Programação #JavaScript**
 
 **Layo "MrBrum"** - Estudante de TI e fã de e-sports 
+
 **Sinta-se a vontade para verificar meu** [Linkedin](https://www.linkedin.com/in/layo-brum/)
