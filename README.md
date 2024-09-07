@@ -31,4 +31,4 @@ Você pode visualizar e testar o site diretamente [aqui](https://jogadores-de-e-
 
 **Layo "MrBrum"** - Estudante de TI e fã de e-sports
 
-**Sinta-se a vontade para entrar em contato comigo pelo **[Linkedin](https://www.linkedin.com/in/layo-brum/)
+**Sinta-se a vontade para entrar em contato comigo pelo** [Linkedin](https://www.linkedin.com/in/layo-brum/)
