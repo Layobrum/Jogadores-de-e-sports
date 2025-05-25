@@ -1,3 +1,5 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 ##  🎮**Procurando por seu jogador de e-Sports favorito?**
 **Este projeto foi desenvonvido a partir da Imersão Dev com Gemini (A inteligência artificial do Google) by Alura, com o objetivo de te ajudar a encontrar o atleta de esportes eletrônicos, com um pequeno resumo e sua página no liquipedia, a maior wiki de esports.** 
 
@@ -32,3 +34,7 @@ Você pode visualizar e testar o site diretamente [aqui](https://jogadores-de-e-
 **Layo "MrBrum"** - Estudante de TI e fã de e-sports
 
 **Sinta-se a vontade para entrar em contato comigo pelo** [Linkedin](https://www.linkedin.com/in/layo-brum/)
+
+## Licença
+
+Este projeto está licenciado sob a Licença MIT. Veja o arquivo `LICENSE` para mais detalhes.
